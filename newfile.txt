@@ -1,0 +1,9 @@
+Dog|dog@email.com|Program Leader|Enjoys eating fish
+Cat|cat@email.com|Volunteer|Very fluffy
+Seb|seb@email.com|Program Coordinator|Is seb
+Andy|andy@email.com|Program Director|Plays piano in spare time
+Cam|cam@email.com|Volunteer|Is a film director
+Grant|grant@email.com|Program Leader|Program Leader at summer camp
+Bunny|rabbit@email.com|Program Coordinator|Lives in the field!
+Cookie|monster@email.com|Program Director|Eats many cookies
+Frog|frog@email.com|Program Leader|Is a frog
